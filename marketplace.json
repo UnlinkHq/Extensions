@@ -1,0 +1,47 @@
+[
+  {
+    "id": "intelligent-focus",
+    "title": "Intelligent Focus",
+    "author": "Unlink Team",
+    "description": "Automatically applies grayscale once daily limits are exceeded.",
+    "category": "Visuals",
+    "icon": "eye-off",
+    "iconType": "Ionicons",
+    "color": "#ffffff",
+    "pro": true,
+    "version": "1.0.5",
+    "bundlePath": "bundles/grayscale-2.bundle.js",
+    "lastUpdated": "2026-03-03T08:47:35.967Z",
+    "folder": "grayscale-2"
+  },
+  {
+    "id": "greyscale-fader",
+    "title": "Greyscale Fader",
+    "author": "shahil-kv",
+    "description": "Screen instantly turns to B&W with a simple toggle.",
+    "category": "Visuals",
+    "icon": "invert-colors",
+    "iconType": "MaterialCommunityIcons",
+    "color": "#8e8e93",
+    "pro": false,
+    "version": "1.0.0",
+    "bundlePath": "bundles/greyscale-fader.bundle.js",
+    "lastUpdated": "2026-03-03T08:47:35.967Z",
+    "folder": "greyscale-fader"
+  },
+  {
+    "id": "testing-extension",
+    "title": "Testing Extension",
+    "author": "your-github-username",
+    "description": "A cool new extension for Unlink",
+    "category": "Utilities",
+    "icon": "star",
+    "iconType": "Ionicons",
+    "color": "#ff006e",
+    "pro": false,
+    "version": "1.0.0",
+    "bundlePath": "bundles/testing-extension.bundle.js",
+    "lastUpdated": "2026-03-03T08:47:35.967Z",
+    "folder": "testing-extension"
+  }
+]
