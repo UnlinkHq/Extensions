@@ -80,7 +80,7 @@ var Extension_intelligent_focus = (() => {
         setHasPermission(false);
         Alert.alert(
           "Accessibility Permission Required",
-          "To filter all apps, ScreenBreak needs Accessibility permission. We only use this to draw a gray filter over your screen without tracking what you type.",
+          "To filters all apps, ScreenBreak needs Accessibility permission. We only use this to draw a gray filter over your screen without tracking what you type.",
           [
             { text: "Cancel", style: "cancel", onPress: () => setIsEnabled(false) },
             {
